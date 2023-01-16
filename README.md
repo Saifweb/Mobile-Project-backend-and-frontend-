@@ -1,5 +1,12 @@
 # mobile_project
 
+#I discovered that the attached folders have a problem, so here is the link for the frontend and the backend.
+
+#frontend (Master) :
+https://github.com/Saifweb/mobile/tree/master
+#backend :
+https://github.com/Saifweb/MobileBackend
+
 A new Flutter project.
 
 ## Getting Started
@@ -28,7 +35,7 @@ dependencies:
 Node js >= v16.14.2
 
 #Lien Video : 
-https://youtu.be/F_cept9eMWs
+https://youtu.be/X5WP7cIX8Ok
 
 #Lien APK:
 
